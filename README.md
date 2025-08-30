@@ -67,7 +67,8 @@ This project uses Python with the following libraries:
 pip install numpy pandas matplotlib plotly
 
 
-▶️ Running in Google Colab
+
+## ▶️ Running in Google Colab
 
 🔗 Open Google Colab
 
@@ -76,7 +77,8 @@ pip install numpy pandas matplotlib plotly
 ▶️ Run each cell step by step to explore reshaping, custom visualization, dtypes, and linear algebra
 
 
-📊 Example Outputs
+
+## 📊 Example Outputs
 
 ✔️ Pivot Table → Rearranges rows & columns with aggregation
 ✔️ Custom Colormap → Beautiful gradient & discrete colormaps
@@ -85,10 +87,12 @@ pip install numpy pandas matplotlib plotly
 ✔️ Parallel Coordinates → Visualize multi-dimensional datasets
 
 
-✨ Author
+
+## ✨ Author
 
 👨‍💻 Created by Rishabh Soni
 For practicing Python, NumPy, Pandas, and Visualization concepts.
+
 
 
 📬 Connect with Me
